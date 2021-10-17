@@ -1,3 +1,5 @@
+# This file is now obsolete and will be used only as a backup.
+
 from googleapiclient.discovery import build
 import os
 
