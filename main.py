@@ -1,7 +1,3 @@
-# from youtube_build import request -obsolete
-#import video_thumbnail
-#from write_to_json import write_to_json
-
 from youtube_statistics import YTstats
 from video_thumbnail import thumbnail_url
 
